@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CtlPanel")(type "KiCad")(uri "${KIPRJMOD}/CtlPanel.kicad_sym")(options "")(descr ""))
+)
